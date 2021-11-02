@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("wudi");
         System.out.println("daiting");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
