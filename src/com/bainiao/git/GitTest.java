@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("woqu");
         System.out.println("i love a girl");
         System.out.println("wudi");
+        System.out.println("daiting");
     }
 }
